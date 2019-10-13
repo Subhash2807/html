@@ -12,8 +12,9 @@
            <form ><br>&nbsp;LOGIN<br>
            <input type="username" placeholder="Enter username"     ><br><br>
             <input type="password" placeholder="Enter password"><br><br>
+	    <a href="forgot.com">forgot password</a>
                <button id="button" type="submit" >Log in</button>
-            
+	   
                </form>
             </div>
         </body>
